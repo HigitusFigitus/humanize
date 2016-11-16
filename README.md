@@ -13,7 +13,7 @@ Engineer empathy and foster emotional intelligence in your workplace. HumanizeBo
 
 * Decoupled architecture consisting of:
   * [Rails back-end API](http://github.com/HigitusFigitus/humanize-api)
-  * [Rails front-end web application](http://github.com/parkyngj/humanize-app)
+  * [Rails front-end web application](https://github.com/HigitusFigitus/humanize)
   * [Third-party hosted Slack bot/application](https://github.com/elliedori/humanize-bot)
 
 * Rails back-end API features
@@ -66,7 +66,7 @@ Engineer empathy and foster emotional intelligence in your workplace. HumanizeBo
   * 6pm
 
 * Check-In Protocol
-  * Victories
+  * Successes
   * Blockers & resolutions
   * Goals
   * Gratitude
