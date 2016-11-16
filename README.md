@@ -9,7 +9,7 @@ Engineer empathy and foster emotional intelligence in your workplace. HumanizeBo
 * Ilaria Varriale ([@HigitusFigitus](http://github.com/HigitusFigitus))
 * Young Ju Park ([@parkyngj](http://github.com/parkyngj))  
 
-[humanize](/public/humanize.png)  
+![humanize](/public/humanize.png)  
   
 
 ## MVP functionalities
