@@ -4,7 +4,7 @@ Engineer empathy and foster emotional intelligence in your workplace. HumanizeBo
 
 ![Humanize App Snapshot](/public/humanize.png)
 
-## Authored by
+## Contributors
 
 * Christopher Chan ([@christopherchan35](http://github.com/christopherchan35))
 * Elisabeth Bahadori ([@elliedori](http://github.com/elliedori))
