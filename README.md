@@ -2,8 +2,7 @@
 
 Engineer empathy and foster emotional intelligence in your workplace. HumanizeBot organizes workshop style sessions called Humanize sessions, and guides participants through specified discussion topics. Results of said sessions can be displayed, and user suggestions for future topics can be received. Any data received for analysis is anonymous.
 
-**Visit the Humanize application at http://humanizebot.herokuapp.com/.
-**
+**Visit the Humanize application at http://humanizebot.herokuapp.com/.**
 
 ![Humanize App Snapshot](/public/humanize.png)
 
