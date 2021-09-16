@@ -2,6 +2,9 @@
 
 Engineer empathy and foster emotional intelligence in your workplace. HumanizeBot organizes workshop style sessions called Humanize sessions, and guides participants through specified discussion topics. Results of said sessions can be displayed, and user suggestions for future topics can be received. Any data received for analysis is anonymous.
 
+See the API service for this application at https://github.com/HigitusFigitus/humanize-api.
+
+
 ![Humanize App Snapshot](/public/humanize.png)
 
 ## Contributors
